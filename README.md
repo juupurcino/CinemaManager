@@ -10,15 +10,15 @@ Each movie should have a title, genre, age rating, duration, and screening times
 
 Add, list, and remove rooms.
 Each room should have a number, seating capacity, and status (available/occupied).
-Manage Sessions
 
-3. Create sessions by associating a movie with a room and setting a time.
-   
+3. Manage Sessions
+
+Create sessions by associating a movie with a room and setting a time.
 Check if the room is available at the selected time.
-Ticket Sales
 
-4. Register ticket sales for sessions.
+4. Ticket Sales
 
+Register ticket sales for sessions.
 Verify seat availability in the room before confirming sales.
 
 6. Reports
